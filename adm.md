@@ -71,3 +71,10 @@ Click start, change the format to JSON, and click Start.
 ArcGIS Server Administrator Directory - Start Datastore Machine
 
 It may take a few minutes for the Data Store Machine to start up. When it is done you should see a message that says {"status": "success"}. When you do, return to the ArcGIS Server Manager data store page and validate the data store again. It should now have a green check mark next to it. If not, you may need to reach out to Esri Technical Support for further troubleshooting.
+
+  
+  
+  
+  4. ArcGIS Data Store command utility reference
+  https://enterprise.arcgis.com/en/portal/latest/administer/windows/data-store-utility-reference.htm
+  
