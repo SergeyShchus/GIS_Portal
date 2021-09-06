@@ -57,3 +57,17 @@ Home > data > validateDataItem
 Paste the JSON in the Item field.
 Select JSON from the Format drop-down menu. Click Validate. Successfully validating the data store loads a new page displaying {"status": "success"}.
   
+
+  
+  
+  3. Restart ArcGis Data Store
+  
+  To attempt to restart the Data Store Machine, go to the Server Admin Data Store Machine Properties page (URL looks something like this: https://gisserver.domain.com/server/admin/data/items/enterpriseDatabases/AGSDataStore_ds_wztxj7um/machines/GISSERVER.DOMAIN.COM)
+
+ArcGIS Server Administrator Directory - Data Store Machine Properties
+
+Click start, change the format to JSON, and click Start.
+
+ArcGIS Server Administrator Directory - Start Datastore Machine
+
+It may take a few minutes for the Data Store Machine to start up. When it is done you should see a message that says {"status": "success"}. When you do, return to the ArcGIS Server Manager data store page and validate the data store again. It should now have a green check mark next to it. If not, you may need to reach out to Esri Technical Support for further troubleshooting.
