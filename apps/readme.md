@@ -1,1 +1,1 @@
-
+- [Covid 19 cases. 2021](https://github.com/SergeyShchus/GIS_Portal/tree/master/apps/covid-19)
